@@ -1,0 +1,8 @@
+AEP Data Normalization and Encoding - README
+This document covers normalization, one-hot encoding, and cyclic transformation—key preprocessing steps for machine learning readiness in time-series forecasting.
+Lab 6: Normalization, One-Hot, and Cyclic Encoding
+Filename: Lab 6 AEP_Normalization_onehot_cyclic (21jzele0450).ipynb
+- Applies Min-Max normalization to scale numerical features.
+- Uses one-hot encoding to transform categorical variables (e.g., day of week).
+- Transforms cyclical features (e.g., hour, month) using sine and cosine functions.
+- Saves the fitted scaler object (`AEPscaler.pkl`) for use in future data processing pipelines.
