@@ -1,0 +1,13 @@
+AEP Feature Engineering Labs - README
+This document covers the next stage in the energy data pipeline—feature engineering and correlation analysis for forecasting.
+Lab 5.1: Feature Extraction
+Filename: Lab 5.1 Features_extract (21jzele0450).ipynb
+- Extracts new features from time-series data (e.g., hour, day, week, month).
+- Highlights the importance of temporal features in energy consumption modeling.
+- Constructs lag features and rolling statistics to capture past behavior trends.
+Lab 5.2: Correlation Analysis
+Filename: Lab 5.2 AEP_Corelation (21jzele0450).ipynb
+- Computes correlation coefficients (Pearson, Spearman) between features.
+- Visualizes feature relationships using heatmaps and pairplots.
+- Assists in identifying multicollinearity and selecting relevant variables for modeling.
+
