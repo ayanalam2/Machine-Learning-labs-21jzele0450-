@@ -1,3 +1,8 @@
 # Machine-Learning-labs-21jzele0450-
-In this repository i have upload machine learning labs which is performed by me in 8 Semester (21jzele0450)
-each lab have its own branch
+Welcome to the Machine Learning Labs repository! This collection includes hands-on lab exercises designed to help you understand and implement fundamental machine learning concepts using Python and popular libraries like NumPy, pandas, scikit-learn, and more.
+
+Git clone my repo: https://github.com/21jzele0449/Machine-Learning-Labs
+
+##Technologies Used (Python 3.9+ , Jupyter Notebook , NumPy , pandas , scikit-learn , matplotlib, seaborn)
+
+##Learning Goals (Understand core machine learning algorithms , Implement models from scratch , Analyze performance with evaluation metrics , Develop a hands-on intuition for data science workflows)
