@@ -1,0 +1,12 @@
+AEP Machine Learning Pipeline for Time-Series Data - README
+This document outlines the structure and implementation of a machine learning pipeline designed for time-series forecasting in the energy domain using AEP data.
+Lab 2: Machine Learning Pipeline for Time-Series Data
+Filenames:
+- Lab 2 Machine learning pipe line for time series data.ipynb
+- Lab_2_detail.ipynb
+
+- Constructs a full pipeline from data preparation to model evaluation.
+- Implements preprocessing steps like scaling, encoding, and feature generation.
+- Uses models such as Linear Regression, Decision Trees, or other regressors for prediction.
+- Includes performance metrics such as RMSE, MAE, and R² for evaluation.
+- Lab_2_detail.ipynb provides an in-depth breakdown of each pipeline component.
