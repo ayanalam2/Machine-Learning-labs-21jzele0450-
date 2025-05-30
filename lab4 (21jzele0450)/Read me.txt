@@ -1,0 +1,26 @@
+THis lab has 3 parts 4.1 4.2 4.3
+
+In 4.1
+We have used numpy and pandas to understand the data and arrange it 
+
+
+AEP Data Preprocessing Labs - README
+This document summarizes three Jupyter notebooks covering key data preprocessing steps used in energy data analysis for AEP (American Electric Power).
+Lab 4.1: Missing Data Handling
+Filename: Lab 4.1 AEP_Missing_data (21jzele0450).ipynb
+- Identifies and visualizes missing values in time-series energy consumption data.
+- Demonstrates techniques to impute missing data using methods such as forward fill, interpolation, and rolling means.
+- Emphasizes the importance of maintaining time-based continuity in datasets.
+Lab 4.2: Outlier Identification and IQR Filling
+Filename: Lab 4.2 Outlier identification IQR fILLING (21jzele0450).ipynb
+- Detects outliers in energy data using the Interquartile Range (IQR) method.
+- Replaces outliers with statistically inferred values to maintain data consistency.
+- Explains the rationale behind IQR thresholds and their practical effect on data smoothing.
+Lab 4.3: Introducing Holidays into AEP Forecasting
+Filename: Lab 4.3 AEP_Introducing_holidays (21jzele0450).ipynb
+- Enhances the dataset by integrating national and local holidays.
+- Explores the effect of holidays on energy usage trends.
+- Prepares the dataset for use in forecasting models by including binary holiday flags.
+Instructions
+Open the `.ipynb` files using Jupyter Notebook or JupyterLab. Ensure necessary libraries such as `pandas`, `numpy`, and `matplotlib` are installed.
+© 2025 - Educational Use Only
